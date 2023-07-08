@@ -1,3 +1,6 @@
+//c, Aron Ayub.
+// Open Source Project.
+
 #include <ESP8266WiFi.h>
 #include "AdafruitIO_WiFi.h"
 
@@ -20,12 +23,12 @@ DHT dht(dhtPin, DHT22);
 
 
 
-#define WIFI_SSID       "Super"
-#define WIFI_PASS       "SuperIntel@.."
+#define WIFI_SSID       "xxxxxxxxx"
+#define WIFI_PASS       "xxxxxxxxxxxxxxxxx"
 
 
-#define IO_USERNAME    "AA001"
-#define IO_KEY         "aio_RVvr98O0cmhdJdNZ813oYPxKnIDb"
+#define IO_USERNAME    "xxxxxxxxxxxxxxxxxxx"
+#define IO_KEY         "xxxxxxxxxxx"
 
 
 // Connect to Wi-Fi and Adafruit IO handel
