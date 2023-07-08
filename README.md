@@ -18,6 +18,7 @@
 
 ```
  - Edit Arduino Code and get it running.
+    - Remember to copy feeds name.
 
 
 
