@@ -18,6 +18,19 @@
 #define IO_KEY         "xxxxxxxxxxx"
 
 ```
+
+**Change the feeds name as below**
+- Replace Fed1 and Fed2.
+```
+AdafruitIO_Feed * firedetector = io.feed("fed1");
+AdafruitIO_Feed * smoke = io.feed("fed1");
+```
+- **To change the Frequency of Sending data**
+- Change the block below, time is in milli-secs
+
+```
+unsigned long delayTime = 60000; //define time interval, milli secs
+```
  - Edit Arduino Code and get it running.
     - Remember to copy feeds name.
 
