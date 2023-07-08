@@ -5,6 +5,7 @@
  1. ESP8266 Dev board
  2. DHT sensor.
  3. Power Source.
+ 4. [Adafruit Account.][def2]
 
  - [Navigate and download the code.][def]
  - Configure the Adafruit Account
@@ -23,3 +24,4 @@
 
 
 [def]: https://github.com/AronAyub/Mini-Weather-Station-Adafruit/blob/main/mini-weather.ino
+[def2]: https://io.adafruit.com/
