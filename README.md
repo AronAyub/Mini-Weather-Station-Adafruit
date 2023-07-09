@@ -7,6 +7,8 @@
  3. Power Source.
  4. [Adafruit Account.][def2]
 
+**Circuit Diagram is as Below**
+
  - [Navigate and download the code.][def]
  - Configure the Adafruit Account
  - Take the right parameters from Adafruit 

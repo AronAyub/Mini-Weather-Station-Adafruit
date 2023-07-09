@@ -117,12 +117,12 @@ void sensor() {
 
   if (millis() - previousTime >= delayTime) {
 
-    firedetector->save(temperature-6);
+    firedetector->save(temperature);
     smoke->save(humidity);
 
     // Print temperature and humidity
   Serial.print("Temperature Sent is: ");
-  Serial.print(temperature-6);
+  Serial.print(temperature);
   Serial.print(" °C\t");
   Serial.print("Humidity Sent is: ");
   Serial.print(humidity);
