@@ -18,8 +18,8 @@ DHT dht(dhtPin, DHT22);
 
 
 //
-//#define WIFI_SSID       "WhatsApp for net 0765909567"
-//#define WIFI_PASS       "magic123."
+//#define WIFI_SSID       "xxxxxxxxxxxxxx"
+//#define WIFI_PASS       "xxxxxx"
 
 
 
