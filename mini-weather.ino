@@ -6,9 +6,6 @@
 
 #include <DHT.h>
 
-// Replace with your network credentials
-//const char* ssid = "Super";
-//const char* password = "SuperIntel@..";
 
 // DHT sensor pin
 const int dhtPin = D5;
